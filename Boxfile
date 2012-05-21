@@ -1,0 +1,3 @@
+web1: 
+  name: dailyroast
+  document_root: public_html
